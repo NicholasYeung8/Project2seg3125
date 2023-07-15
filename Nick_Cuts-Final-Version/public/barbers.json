@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "name": "Wassim",
+    "desc": "Wassim has 5 years of experience in barber shops.",
+    "picture": "https://nationaltoday.com/wp-content/uploads/2022/02/Barbers-Day.jpg",
+    "clients": "50+",
+    "rating": "5/5",
+    "position": "Senior barber",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Ali",
+        "avatar": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "content": "My co-worker Ali has one of these. He says it looks towering.",
+        "star": 5
+      },
+      {
+        "id": 2,
+        "name": "Faiaz",
+        "avatar": "https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWFufGVufDB8fDB8fHww&w=1000&q=80",
+        "content": "SoCal cockroaches are unwelcome, crafty, and tenacious. This Nick Cuts keeps them away.",
+        "star": 5
+      },
+      {
+        "id": 3,
+        "name": "Kayser",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq7dDqaApR0N2jhw8SQglWnx41KEY1P1D1cg&usqp=CAU",
+        "content": "I tried to behead it but got truffle all over it.",
+        "star": 5
+      }
+    ],
+    "works": [
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-2.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-1.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-8.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ted",
+    "desc": "Ted has 4 years of experience in barber shops.",
+    "picture": "https://i2-prod.getreading.co.uk/incoming/article13783444.ece/ALTERNATES/s615/0_Barbers-next-door-to-kebab-shop-is-secret-hair-stylist-to-Premier-League-stars.jpg",
+    "clients": "20+",
+    "rating": "5/5",
+    "position": "Senior barber",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Jonathan",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTErJRnhpdGZVd7lw7Ki9mvA54Cr4tIqrBccw&usqp=CAU",
+        "content": "I'm really very satisfied with Ted's work.",
+        "star": 5
+      },
+      {
+        "id": 2,
+        "name": "Scout",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkaAMf5JYiPUE4OfVQ8EBLVP0d_kiKcTYVw&usqp=CAU",
+        "content": "Great Cutting, Great Communication as always. I loved that",
+        "star": 5
+      },
+      {
+        "id": 3,
+        "name": "Dynamo",
+        "avatar": "https://i.pinimg.com/236x/9a/bd/46/9abd46666da62bb93a2a02a40814c3ff.jpg",
+        "content": "Thank you for the best service as always TED",
+        "star": 5
+      }
+    ],
+    "works": [
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-hair-mens-ottawa.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-hair-color.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-hair-services-ottawa.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-barrhaven-services.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "desc": "Alex has 10 years of experience in barber shops.",
+    "picture": "https://static.thehoneycombers.com/wp-content/uploads/sites/2/2018/11/Grease-Monkey-Barber-Garage-900x643.png",
+    "clients": "150+",
+    "rating": "5/5",
+    "position": "Most Senior barber",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Sinister",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_yjXNqwaAjGAyaykYgMhWTTihvECnujmuMg&usqp=CAU",
+        "content": "I'm really very satisfied with Alex's work.",
+        "star": 5
+      },
+      {
+        "id": 2,
+        "name": "NightwingBot",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLNTwMVPABS9heZJ8O4Aaq7gl6nx_6FhFSg&usqp=CAU",
+        "content": "Great Cutting, Great Communication as always. I loved that",
+        "star": 5
+      },
+      {
+        "id": 3,
+        "name": "RxJax",
+        "avatar": "https://haircutinspiration.com/wp-content/uploads/2022/11/man-bun-hairstyle-Man-Bun-with-Slick-Back.jpg",
+        "content": "Thank you for the best service as always Alex",
+        "star": 5
+      }
+    ],
+    "works": [
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-men-haircut.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-barrhaven-services.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-4.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-7.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-6.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-8.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jhon",
+    "desc": "Jhon has 12 years of experience in barber shops.",
+    "picture": "https://d2zdpiztbgorvt.cloudfront.net/us/images/49455/biz_photo_155533656821.jpeg?size=640x427",
+    "clients": "224+",
+    "rating": "5/5",
+    "position": "Most Senior barber",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Smith",
+        "avatar": "https://i0.wp.com/therighthairstyles.com/wp-content/uploads/2021/09/9-high-fade-for-men.jpg?fit=1080%2C1273&ssl=1",
+        "content": "I'm really very satisfied with Jhon's work.",
+        "star": 5
+      },
+      {
+        "id": 2,
+        "name": "PewDiePie",
+        "avatar": "https://images.pexels.com/photos/938639/pexels-photo-938639.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "content": "Great Cutting, Great Communication as always. I loved that",
+        "star": 5
+      },
+      {
+        "id": 3,
+        "name": "MrBeast",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcWV4zpzV0EbG2IEdE6um8wfSgqeFlnO6YdQ&usqp=CAU",
+        "content": "Thank you for the best service as always JHON",
+        "star": 5
+      }
+    ],
+    "works": [
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-1.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-2.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-3.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-8.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-5.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_hair-by-lorena-ottawa-hair-salon-9.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-4.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rock",
+    "desc": "Rock has 2 years of experience in barber shops.",
+    "picture": "https://global-uploads.webflow.com/5cb569e54ca2fddd5451cbb2/5f0570ad3ed08718438d1330_Charlestown-01.jpg",
+    "clients": "30+",
+    "rating": "5/5",
+    "position": "Junior barber",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Dhruv",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAPb22SxmThnvXq34XOIa1m1NsUQEVUfR7LQ&usqp=CAU",
+        "content": "I'm really very satisfied with Rock's work.",
+        "star": 5
+      },
+      {
+        "id": 2,
+        "name": "Hamnadesai",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2DFeuTrOMMDMCM9-h1mYb8xtRq4TMOhUpw&usqp=CAU",
+        "content": "Great Cutting, Great Communication as always. I loved that",
+        "star": 5
+      },
+      {
+        "id": 3,
+        "name": "Jorge",
+        "avatar": "https://machohairstyles.com/wp-content/uploads/2017/03/professional-hairstyle-for-men-1.jpg.webp",
+        "content": "Thank you for the best service as always Rock",
+        "star": 5
+      }
+    ],
+    "works": [
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-6.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-3.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Perth",
+    "desc": "Perth has 5 years of experience in barber shops.",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaCXE8W468DES5_6vnPUMYBEHsLRZajZJACw&usqp=CAU",
+    "clients": "35+",
+    "rating": "5/5",
+    "position": "Junior barber",
+    "reviews": [
+      {
+        "id": 1,
+        "name": "Dhruv",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAPb22SxmThnvXq34XOIa1m1NsUQEVUfR7LQ&usqp=CAU",
+        "content": "I'm really very satisfied with Rock's work.",
+        "star": 5
+      },
+      {
+        "id": 2,
+        "name": "Hamnadesai",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ2DFeuTrOMMDMCM9-h1mYb8xtRq4TMOhUpw&usqp=CAU",
+        "content": "Great Cutting, Great Communication as always. I loved that",
+        "star": 5
+      },
+      {
+        "id": 3,
+        "name": "Jorge",
+        "avatar": "https://machohairstyles.com/wp-content/uploads/2017/03/professional-hairstyle-for-men-1.jpg.webp",
+        "content": "Thank you for the best service as always Rock",
+        "star": 5
+      }
+    ],
+    "works": [
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-6.jpg",
+      "https://hairbylorena.ca/wp-content/gallery/gallery/thumbs/thumbs_ottawa-hair-salon-gallery-3.jpg"
+    ]
+  }
+]

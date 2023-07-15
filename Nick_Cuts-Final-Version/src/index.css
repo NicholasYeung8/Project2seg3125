@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+a.active > p {
+  font-weight: bold;
+  background-color: #6539d5;
+  color: #fff;
+}
+
+.footer a.active > p {
+  color: white;
+}
+
+.banner {
+  background-image: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.52),
+      rgba(101, 57, 213, 0.7)
+    ),
+    url("../public/images/banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
